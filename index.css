@@ -75,7 +75,6 @@ body{
 .editag:hover, .savetag:hover, .deletag:hover{
     border: 1px solid crimson;
     background: transparent;
-    color: black;
 }
 .displaydata{
     width: 750px;
